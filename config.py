@@ -1,0 +1,21 @@
+LINK_CAPACITY = 20.0
+
+CONGESTION_THRESHOLD = 80.0
+
+TEST_DURATION = 10
+
+SERVER_IP = "10.0.0.4"
+
+MITIGATION_RATE = "15M"
+
+LOG_FILE = "logs/simulation.log"
+
+REPORT_FILE = "results/report.txt"
+
+TOPOLOGY = "Leaf-Spine"
+
+HOSTS = 4
+
+SWITCHES = 3
+
+PORTS = [5201, 5202, 5203]

@@ -1,0 +1,107 @@
+
+==================================================
+Time         : 2026-07-02 18:15:46
+Capacity     : 20.0 Mbps
+Throughput   : 19.10 Mbps
+Utilization  : 95.50%
+Status       : CONGESTED
+==================================================
+
+============================================================
+Time              : 2026-07-02 18:32:55
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 19.10 Mbps
+Utilization       : 95.50%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-03 20:04:51
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 19.00 Mbps
+Utilization       : 95.00%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-03 20:22:24
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 19.10 Mbps
+Utilization       : 95.50%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-03 20:27:15
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 19.10 Mbps
+Utilization       : 95.50%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-04 17:13:06
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 0.00 Mbps
+Utilization       : 0.00%
+Status            : NORMAL
+============================================================
+
+============================================================
+Time              : 2026-07-04 17:16:53
+Topology          : Single-Spine Core-Distribution
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 13.00 Mbps
+Utilization       : 65.00%
+Status            : NORMAL
+============================================================
+
+============================================================
+Time              : 2026-07-04 17:19:32
+Topology          : Single-Spine Core-Distribution
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 52.50 Mbps
+Utilization       : 262.50%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-04 17:24:16
+Topology          : Single-Spine Core-Distribution
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 54.90 Mbps
+Utilization       : 100.00%
+Status            : CONGESTED
+============================================================
+
+============================================================
+Time              : 2026-07-04 17:48:48
+Topology          : Leaf-Spine
+Hosts             : 4
+Switches          : 3
+Capacity          : 20.0 Mbps
+Throughput        : 18.90 Mbps
+Utilization       : 94.50%
+Status            : CONGESTED
+============================================================

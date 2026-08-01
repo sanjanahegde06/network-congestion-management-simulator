@@ -1,0 +1,36 @@
+NETWORK CONGESTION MANAGEMENT REPORT
+=============================================
+
+Simulation Time : 2026-07-04 17:49:00
+
+NETWORK CONFIGURATION
+------------------------------
+Topology        : Leaf-Spine
+Hosts           : 4
+Switches        : 3
+Capacity        : 20.0 Mbps
+
+BEFORE MITIGATION
+------------------------------
+Throughput      : 18.90 Mbps
+Utilization     : 94.50%
+Latency         : 81.82 ms
+Status          : CONGESTED
+
+AFTER MITIGATION
+------------------------------
+Throughput      : 20.00 Mbps
+Utilization     : 100.00%
+Latency         : 0.66 ms
+Status          : CONGESTED
+
+IMPROVEMENT SUMMARY
+------------------------------
+Latency Improvement : 99.2%
+Congestion Resolved : No
+
+RECOMMENDATIONS
+------------------------------
+- Reduce rate limit further
+- Upgrade link bandwidth
+- Consider load balancing across multiple paths
